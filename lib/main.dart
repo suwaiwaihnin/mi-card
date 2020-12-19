@@ -22,7 +22,6 @@ void main() {
   runApp(MyApp());
 }
 
-//mi-card
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
@@ -40,7 +39,7 @@ class MyApp extends StatelessWidget {
               backgroundImage: AssetImage('images/profile.jpg'),
             ),
             Text(
-              'Welcome to Flutter',
+              'Su Wai Wai Hnin',
               style: TextStyle(
                 fontSize: 20.0,
                 fontWeight: FontWeight.bold,
